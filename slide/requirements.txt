@@ -1,0 +1,14 @@
+openai
+llama-index
+crewai
+python-pptx
+pandas
+PyMuPDF
+matplotlib
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+EOF
+docx
+requests
